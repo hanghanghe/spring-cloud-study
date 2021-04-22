@@ -22,6 +22,7 @@ public class MylogFilter implements GlobalFilter, Ordered {
             exchange.getResponse().setStatusCode(HttpStatus.NOT_ACCEPTABLE);
             log.info("uname为空，非法用户");
             return exchange.getResponse().setComplete();
+            /*******sssssssssssssssss*******/
         }
         return chain.filter(exchange);
     }
