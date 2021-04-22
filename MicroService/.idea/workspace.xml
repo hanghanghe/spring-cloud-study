@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a7ae5fdc-507a-415a-9d3c-72c9bdbe0387" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\programs\maven\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\programs\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1opxeapDq3ZIzmIR3eCH2Ea2MVT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PROJECTS/IdeaProjects/graduate" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaProjects\MicroService\cloud-provider-payment8002\src\main\java\hang\he" />
+      <recent name="D:\ideaProjects\MicroService\cloud-provider-payment8002\src\main\resources" />
+      <recent name="D:\ideaProjects\MicroService\cloud-eureka-server7002\src\main\resources" />
+      <recent name="D:\ideaProjects\MicroService\cloud-api-commons\src\main\java\hang\he" />
+      <recent name="D:\ideaProjects\MicroService\cloud-consumer-oder80\src\main\java\hang\he" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="hang.he.config" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Gateway9527">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Test" />
+      <module name="cloud-gateway-gateway9527" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudConsumer80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumer-oder80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="hang.he.CloudConsumer80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudEureka7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-eureka-server7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hang.he.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="hang.he.CloudEureka7001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudEureka7002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-eureka-server7002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="hang.he.CloudEureka7002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudProviderPayment8002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-payment8002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="hang.he.CloudProviderPayment8002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerConsul" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumerConsul-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="hang.he.ConsumerConsul" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerZook" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumerZook-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="hang.he.ConsumerZook" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dashboard9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-consumer-hystrix-dashboard9001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hang.he.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="hang.he.Dashboard9001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Gateway9527" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-gateway-gateway9527" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hang.he.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="hang.he.Gateway9527" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HystrixPayment8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-provider-hystrix-payment8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hang.he.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="hang.he.HystrixPayment8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Payment8001Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-payment8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="hang.he.Payment8001Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Payment8004" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-providerZk-payment8004" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="hang.he.Payment8004" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderConsul" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-providerConsul-payment8006" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="hang.he.ProviderConsul" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Gateway9527" />
+        <item itemvalue="Spring Boot.CloudEureka7001" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Spring Boot.HystrixPayment8001" />
+        <item itemvalue="Spring Boot.Dashboard9001" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7ae5fdc-507a-415a-9d3c-72c9bdbe0387" name="Default Changelist" comment="" />
+      <created>1613997430940</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613997430940</updated>
+      <workItem from="1613997432075" duration="866000" />
+      <workItem from="1614580427881" duration="42000" />
+      <workItem from="1614687879063" duration="1018000" />
+      <workItem from="1614693468369" duration="843000" />
+      <workItem from="1615027819025" duration="8666000" />
+      <workItem from="1615038072616" duration="1464000" />
+      <workItem from="1615041485272" duration="532000" />
+      <workItem from="1615110265280" duration="8625000" />
+      <workItem from="1615295609463" duration="4442000" />
+      <workItem from="1615379510124" duration="5768000" />
+      <workItem from="1615469287959" duration="1089000" />
+      <workItem from="1615554747657" duration="623000" />
+      <workItem from="1615571176449" duration="22000" />
+      <workItem from="1615571215418" duration="14000" />
+      <workItem from="1615813532930" duration="828000" />
+      <workItem from="1615900723452" duration="4206000" />
+      <workItem from="1616508641090" duration="1691000" />
+      <workItem from="1616587207463" duration="4887000" />
+      <workItem from="1616592887266" duration="60000" />
+      <workItem from="1616593021419" duration="562000" />
+      <workItem from="1616593655831" duration="1910000" />
+      <workItem from="1616672997503" duration="33000" />
+      <workItem from="1616682354212" duration="2033000" />
+      <workItem from="1616933233426" duration="605000" />
+      <workItem from="1616934437216" duration="21000" />
+      <workItem from="1616934474729" duration="2000" />
+      <workItem from="1616934861635" duration="4740000" />
+      <workItem from="1617017009663" duration="5045000" />
+      <workItem from="1617287146594" duration="4510000" />
+      <workItem from="1617711996745" duration="2270000" />
+      <workItem from="1617798619891" duration="5321000" />
+      <workItem from="1617978943255" duration="2988000" />
+      <workItem from="1618318039143" duration="8486000" />
+      <workItem from="1618408849211" duration="2181000" />
+      <workItem from="1618926950164" duration="7684000" />
+      <workItem from="1619005991114" duration="7565000" />
+      <workItem from="1619093093189" duration="46000" />
+      <workItem from="1619093158586" duration="273000" />
+      <workItem from="1619094471609" duration="108000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
