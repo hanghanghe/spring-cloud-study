@@ -20,6 +20,7 @@
         <module name="cloud-consumerConsul-order80" />
         <module name="cloud-consumer-hystrix-dashboard9001" />
         <module name="cloud-consumerZk-order80" />
+        <module name="cloud-config-center-3344" />
         <module name="cloud-ConsumerZk-order80" />
         <module name="cloud-gateway-gateway9527" />
         <module name="cloud-order-feign-hystrix-consumer80" />
@@ -28,6 +29,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
       <module name="cloud-api-commons" target="8" />
+      <module name="cloud-config-center-3344" target="8" />
       <module name="cloud-consumer-hystrix-dashboard9001" target="8" />
       <module name="cloud-consumer-oder80" target="8" />
       <module name="cloud-consumerConsul-order80" target="8" />
@@ -46,6 +48,7 @@
       <module name="cloud-providerConsul-payment8006" target="8" />
       <module name="cloud-providerZk-payment8004" target="8" />
       <module name="MicroService" target="1.8" />
+      <module name="quartz" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

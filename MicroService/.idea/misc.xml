@@ -10,6 +10,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/cloud-consumerZk-order80/pom.xml" />
+        <option value="$PROJECT_DIR$/quartz/pom.xml" />
       </set>
     </option>
   </component>
