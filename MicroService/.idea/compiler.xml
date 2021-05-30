@@ -18,6 +18,7 @@
         <module name="cloud-providerZk-payment8004" />
         <module name="cloud-eureka-server7002" />
         <module name="cloud-consumerConsul-order80" />
+        <module name="config-3355" />
         <module name="cloud-consumer-hystrix-dashboard9001" />
         <module name="cloud-consumerZk-order80" />
         <module name="cloud-config-center-3344" />
@@ -47,6 +48,7 @@
       <module name="cloud-provider-payment8002" target="8" />
       <module name="cloud-providerConsul-payment8006" target="8" />
       <module name="cloud-providerZk-payment8004" target="8" />
+      <module name="config-3355" target="8" />
       <module name="MicroService" target="1.8" />
       <module name="quartz" target="8" />
     </bytecodeTargetLevel>
